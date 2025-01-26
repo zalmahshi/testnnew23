@@ -41,6 +41,11 @@
       <Name>test23</Name>
       <Link>Classes\test23</Link>
     </Content>
+    <Content Include="AxClass\test444">
+      <SubType>Content</SubType>
+      <Name>test444</Name>
+      <Link>Classes\test444</Link>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.Common.targets" />
   <Import Project="$(BuildTasksDirectory)\Microsoft.Dynamics.Framework.Tools.BuildTasks.17.0.targets" />
